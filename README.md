@@ -1,0 +1,2 @@
+# tugas-ts
+python
